@@ -1,3 +1,8 @@
+# McpDecryptor.py
+You can run this script directly to decrypt NetEase Minecraft mod encrypted .mcp filesand directly obtain the developer_mods folder.
+(For map template modification only)
+Can also be used as a forked repository of the original repository!
+
 # vanilla_mcp_util
 A utility for researching a game's script files, such as `vanilla.mcp`.
 
